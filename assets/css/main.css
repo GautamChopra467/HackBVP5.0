@@ -2485,7 +2485,7 @@ footer {
 ========================================================================== */
 .hero-area-bg {
   /* background: url(../img/hero-area.jpg) no-repeat; */
-  background: url(../img/background/bgop.png) no-repeat;
+  /* background: url(../img/background/bgop.png) no-repeat; */  
   background-size: cover;
   background-position: center center;
   height: 110vh;
@@ -2530,7 +2530,7 @@ img#nav-logo {
 }
 
 #hero-area .contents .banner-info {
-  font-size: 18px;
+  font-size: 4vw;
   font-style: italic;
   margin-bottom: 22px;
   line-height: 24px;
