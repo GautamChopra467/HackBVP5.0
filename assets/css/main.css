@@ -14,7 +14,7 @@ body::-webkit-scrollbar-track {
 }
 
 body::-webkit-scrollbar-thumb {
-  background-color: #ff2fff; /* color of the scroll thumb */
+  background-color: #0099ff; /* color of the scroll thumb */
   border-radius: 15px; /* roundness of the scroll thumb */
 }
 
@@ -2581,7 +2581,7 @@ img#nav-logo {
   width: 100px;
   padding: 15px 0;
   background: rgba(255, 255, 255, 0.12);
-  border-top: 5px solid #ff2fff;
+  border-top: 5px solid #0099ff;
 }
 
 #clock div h3 {
