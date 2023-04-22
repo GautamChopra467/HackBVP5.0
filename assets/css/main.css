@@ -18,6 +18,7 @@ body::-webkit-scrollbar-thumb {
   border-radius: 15px; /* roundness of the scroll thumb */
 }
 
+
 /* #0000ff */
 body {
   background: #0f121a;
@@ -78,6 +79,9 @@ ul li,
 ol li {
   list-style: none;
 }
+
+
+
 
 .hero-heading {
   font-size: 40px;
@@ -2618,7 +2622,7 @@ div#clock {
 @media (max-width: 720px) {
   .hero-area-bg {
     /* background: url(../img/hero-area.jpg) no-repeat; */
-    background: url(../img/background/onlybg.png) no-repeat !important;
+    /* background: url(../img/background/onlybg.png) no-repeat !important; */
     background-size: cover !important;
     background-position: center;
     height: 100vh;
@@ -2636,7 +2640,7 @@ div#clock {
 @media (max-width: 445px) {
   .hero-area-bg {
     /* background: url(../img/hero-area.jpg) no-repeat; */
-    background: url(../img/background/onlybg.png) no-repeat !important;
+    /* background: url(../img/background/onlybg.png) no-repeat !important; */
     background-size: cover;
     background-position: center;
     height: 100vh;
