@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto:500,700');
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
+
 html {
   overflow-x: hidden;
 }
@@ -122,10 +124,11 @@ ol li {
 }
 
 .section-title {
-  font-size: 30px;
+  font-family: 'Alkatra', cursive;
+  font-size: 120px;
   color: #fff !important ;
   line-height: 52px;
-  font-weight: 700;
+  font-weight: 400;
   text-align: center;
   display: block;
   position: relative;
